@@ -5,8 +5,8 @@ O projeto consiste em criar um script que realize um dump e restore de um banco 
 
 ## Pré-requisitos
 - [Docker](https://www.docker.com/get-started)
-- [Java JDK 11](https://www.oracle.com/java/technologies/javase-downloads.html)
-- [JBoss](https://www.jboss.org/)
+- [Java JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
+- [JBoss](https://www.wildfly.org/downloads/)
 - [Apache Tomcat](http://tomcat.apache.org/)
 
 1. **Configuração das variáveis de ambiente:**
